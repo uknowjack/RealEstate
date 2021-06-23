@@ -509,3 +509,313 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.cf28db24561c688b9e69.bundle.js, line 1: unreachable code after return statement
 JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.cf28db24561c688b9e69.bundle.js, line 1: unreachable code after return statement
 1624297858294	Marionette	INFO	Stopped listening on port 39083
+1624326416151	Marionette	INFO	Stopped listening on port 40125
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624379720331	geckodriver	INFO	Listening on 127.0.0.1:53497
+1624379721350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXNkaWc"
+1624379721774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXNkaWc/search.json.mozlz4", (void 0)))
+1624379723343	Marionette	INFO	Listening on port 35743
+1624379723380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.a4827c7cd28bd427fb9b.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.a4827c7cd28bd427fb9b.bundle.js, line 1: unreachable code after return statement
+1624379732217	Marionette	INFO	Stopped listening on port 35743
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624379732877	geckodriver	INFO	Listening on 127.0.0.1:46551
+1624379733893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenD1dmu"
+1624379734316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenD1dmu/search.json.mozlz4", (void 0)))
+1624379735832	Marionette	INFO	Listening on port 44949
+1624379735922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.c471728f77bcde866172.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.c471728f77bcde866172.bundle.js, line 1: unreachable code after return statement
+1624380883626	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1624380920725	Marionette	INFO	Stopped listening on port 44949
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624380926915	geckodriver	INFO	Listening on 127.0.0.1:46063
+1624380926923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebugIqG"
+1624380927328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebugIqG/search.json.mozlz4", (void 0)))
+1624380929025	Marionette	INFO	Listening on port 40983
+1624380929050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.a4827c7cd28bd427fb9b.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.a4827c7cd28bd427fb9b.bundle.js, line 1: unreachable code after return statement
+1624380937744	Marionette	INFO	Stopped listening on port 40983
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624380938418	geckodriver	INFO	Listening on 127.0.0.1:47803
+1624380939434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRBzI8W"
+1624380939881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRBzI8W/search.json.mozlz4", (void 0)))
+1624380941630	Marionette	INFO	Listening on port 36771
+1624380941661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.c471728f77bcde866172.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.c471728f77bcde866172.bundle.js, line 1: unreachable code after return statement
+Gdk-Message: 19:02:25.442: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 19:02:25.443: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 19:02:25.443: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390027,name=PContent::Msg_ThemeChanged) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390027,name=PContent::Msg_ThemeChanged) Channel error: cannot send/recv
+
+Gdk-Message: 19:02:25.946: firefox: Fatal IO error 0 (Success) on X server :0.
+
+1624403768398	geckodriver	INFO	Listening on 127.0.0.1:39789
+1624403769417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL03mcE"
+1624403769945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL03mcE/search.json.mozlz4", (void 0)))
+1624403772181	Marionette	INFO	Listening on port 45999
+1624403772249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+1624403782478	Marionette	INFO	Stopped listening on port 45999
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624403783344	geckodriver	INFO	Listening on 127.0.0.1:49567
+1624403784358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehc0U2m"
+1624403784953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehc0U2m/search.json.mozlz4", (void 0)))
+1624403787125	Marionette	INFO	Listening on port 38837
+1624403787205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+1624403955586	geckodriver	INFO	Listening on 127.0.0.1:41039
+1624403955595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYhLjWx"
+1624403956228	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYhLjWx/search.json.mozlz4", (void 0)))
+1624403958453	Marionette	INFO	Listening on port 40513
+1624403958535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+1624403968742	Marionette	INFO	Stopped listening on port 40513
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624403969573	geckodriver	INFO	Listening on 127.0.0.1:54183
+1624403970588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRgcqsA"
+1624403971194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRgcqsA/search.json.mozlz4", (void 0)))
+1624403973429	Marionette	INFO	Listening on port 42311
+1624403973527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+1624404065609	Marionette	INFO	Stopped listening on port 38837
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624404111474	geckodriver	INFO	Listening on 127.0.0.1:33093
+1624404111483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea7XtEa"
+1624404111979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea7XtEa/search.json.mozlz4", (void 0)))
+1624404114106	Marionette	INFO	Listening on port 34857
+1624404114216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+1624404118465	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1624404123679	Marionette	INFO	Stopped listening on port 34857
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624404124531	geckodriver	INFO	Listening on 127.0.0.1:35605
+1624404125547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYvULHw"
+1624404126103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYvULHw/search.json.mozlz4", (void 0)))
+1624404128141	Marionette	INFO	Listening on port 41731
+1624404128188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+1624404140726	Marionette	INFO	Stopped listening on port 42311
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624404519856	Marionette	INFO	Stopped listening on port 41731
+1624405779167	geckodriver	INFO	Listening on 127.0.0.1:35487
+1624405779175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAPrpRa"
+1624405779685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAPrpRa/search.json.mozlz4", (void 0)))
+1624405781787	Marionette	INFO	Listening on port 43769
+1624405781906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+1624405786150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1624405791364	Marionette	INFO	Stopped listening on port 43769
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624405792213	geckodriver	INFO	Listening on 127.0.0.1:36045
+1624405793226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRuMBxJ"
+1624405793768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRuMBxJ/search.json.mozlz4", (void 0)))
+1624405795902	Marionette	INFO	Listening on port 39843
+1624405795980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+1624406888181	Marionette	INFO	Stopped listening on port 39843
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624407088020	geckodriver	INFO	Listening on 127.0.0.1:43431
+1624407088029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledIEouo"
+1624407088561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledIEouo/search.json.mozlz4", (void 0)))
+1624407090496	Marionette	INFO	Listening on port 37639
+1624407090559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+1624407098108	Marionette	INFO	Stopped listening on port 37639
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624407098927	geckodriver	INFO	Listening on 127.0.0.1:34727
+1624407099944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDVK03E"
+1624407100480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDVK03E/search.json.mozlz4", (void 0)))
+1624407102555	Marionette	INFO	Listening on port 42735
+1624407102673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+1624408051224	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+1624408710908	Marionette	INFO	Stopped listening on port 42735
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624408763571	geckodriver	INFO	Listening on 127.0.0.1:41127
+1624408764587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1PpvJ1"
+1624408765003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1PpvJ1/search.json.mozlz4", (void 0)))
+1624408766409	Marionette	INFO	Listening on port 43327
+1624408766513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+1624409185098	Marionette	INFO	Stopped listening on port 43327
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624409189708	geckodriver	INFO	Listening on 127.0.0.1:51505
+1624409190724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7bmkyh"
+1624409191139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7bmkyh/search.json.mozlz4", (void 0)))
+1624409192678	Marionette	INFO	Listening on port 41659
+1624409192747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+1624409865192	Marionette	INFO	Stopped listening on port 41659
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624409867012	geckodriver	INFO	Listening on 127.0.0.1:58655
+1624409868028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9KhS4P"
+1624409868439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9KhS4P/search.json.mozlz4", (void 0)))
+1624409869980	Marionette	INFO	Listening on port 45779
+1624409870050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+1624411523194	geckodriver	INFO	Listening on 127.0.0.1:36189
+1624411523205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLthgyE"
+1624411523846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLthgyE/search.json.mozlz4", (void 0)))
+1624411526487	Marionette	INFO	Listening on port 36149
+1624411526548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+1624411534596	Marionette	INFO	Stopped listening on port 36149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624411535469	geckodriver	INFO	Listening on 127.0.0.1:41615
+1624411536483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqhZkXi"
+1624411537160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqhZkXi/search.json.mozlz4", (void 0)))
+1624411539389	Marionette	INFO	Listening on port 33881
+1624411539435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+1624411547187	geckodriver	INFO	Listening on 127.0.0.1:46575
+1624411548202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee63VjI"
+1624411548787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee63VjI/search.json.mozlz4", (void 0)))
+1624411551214	Marionette	INFO	Listening on port 34339
+1624411551339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+1624411570100	Marionette	INFO	Stopped listening on port 45779
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624411572971	Marionette	INFO	Stopped listening on port 33881
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624412846550	Marionette	INFO	Stopped listening on port 34339
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624412904289	geckodriver	INFO	Listening on 127.0.0.1:35155
+1624412904297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLtDu9x"
+1624412904750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLtDu9x/search.json.mozlz4", (void 0)))
+1624412906493	Marionette	INFO	Listening on port 35563
+1624412906538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/38.4c267fef6fb414d1bfbf.bundle.js, line 1: unreachable code after return statement
+1624412915424	Marionette	INFO	Stopped listening on port 35563
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624412916045	geckodriver	INFO	Listening on 127.0.0.1:51313
+1624412917063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7wwKXI"
+1624412917519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7wwKXI/search.json.mozlz4", (void 0)))
+1624412919254	Marionette	INFO	Listening on port 33539
+1624412919289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+1624412976802	geckodriver	INFO	Listening on 127.0.0.1:42545
+1624412977811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexJwd5H"
+1624412978258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexJwd5H/search.json.mozlz4", (void 0)))
+1624412980088	Marionette	INFO	Listening on port 37389
+1624412980135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/ADPDesktopPage~a7ac6820.4dee54e91fa4395d8139.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/APDPDesktopPage~a7ac6820.e26cc1cd31cb80d37d1b.bundle.js, line 1: unreachable code after return statement
+1624414736937	Marionette	INFO	Stopped listening on port 33539
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624414738451	Marionette	INFO	Stopped listening on port 37389
